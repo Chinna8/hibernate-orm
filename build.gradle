@@ -33,6 +33,7 @@ plugins {
 	id 'me.champeau.buildscan-recipes' version '0.1.7'
 }
 
+/* Changes for Feature 234 done by Mahesh*/
 allprojects {
 	repositories {
 		mavenCentral()
