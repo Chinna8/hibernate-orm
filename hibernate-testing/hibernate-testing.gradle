@@ -19,7 +19,7 @@ dependencies {
     compile( libraries.xapool )
     compile( libraries.log4j )
     compile ( libraries.jboss_jta ) {
-        transitive=false;
+        transitive=true;
     }
 }
 
